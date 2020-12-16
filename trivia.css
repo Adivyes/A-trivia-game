@@ -1,0 +1,28 @@
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(to top, #9c6bd1, #df68b5, #ff7793, #ff9676, #ffba6b, #f8c56c, #efd070, #e6da77, #ecd06e, #f2c667, #f7bb62, #fbb05f);
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2{
+    text-align: center;
+ 
+}
+#mainDiv{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.btnCate{
+   width: 200px;
+   height: 400px;
+   margin-top: 5vh;
+   box-shadow: 0 5px 10px 0;
+   background-image: linear-gradient(to top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+   font-size: 20px;
+}
