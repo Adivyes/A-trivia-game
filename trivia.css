@@ -34,16 +34,21 @@ h2{
    font-size: 20px;
    text-align: center;
    padding-top: 80px;
+   border-radius: 15px;
    
 }
 
 h4 {
     transition: 0.5s;
     font-weight: lighter;
+    
    
     
 }
-/* h4:hover{
+.keyCategor{
+    text-decoration: underline;
+}
+h4:hover{
     background:#5ffbf1;
     
-} */
+}
