@@ -11,18 +11,39 @@ h1{
 
 h2{
     text-align: center;
+    
  
 }
+.mystyle{
+    display: none;
+ 
+}
+
 #mainDiv{
     display: flex;
     justify-content: center;
     justify-content: space-evenly;
 }
-.btnCate{
+
+.categorbtn{
    width: 200px;
    height: 400px;
    margin-top: 5vh;
    box-shadow: 0 5px 10px 0;
    background-image: linear-gradient(to top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
    font-size: 20px;
+   text-align: center;
+   padding-top: 80px;
+   
 }
+
+h4 {
+    transition: 0.5s;
+    font-weight: lighter;
+   
+    
+}
+/* h4:hover{
+    background:#5ffbf1;
+    
+} */
